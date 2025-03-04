@@ -2,7 +2,8 @@
 
 
 Sebastian Lopez Garcia A00377582
-Introducción al Laboratorio de Terraform con Kubernetes
+
+## Introducción al Laboratorio de Terraform con Kubernetes
 En este laboratorio, trabajaremos con Terraform para la gestión de infraestructura como código, utilizando kubectl para interactuar con un clúster de Kubernetes. El objetivo principal será desplegar un pod con Nginx y visualizarlo a través de Lens Desktop, una herramienta gráfica que facilita la administración de clústeres Kubernetes.
 
 Instalacion de az-cli:
